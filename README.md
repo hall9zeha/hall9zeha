@@ -42,35 +42,35 @@ I am a mobile application developer who is always learning new technologies and 
 <br />
 <div align="center">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/kotlin-icon.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
      
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/java.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/c-sharp.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/javascript.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
      
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/android-vertical.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
      
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/python.svg" align="left"
-     width="80" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/css-3.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/html-5.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-</div>
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
 
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" align="left"
-     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
 </div>
 
 

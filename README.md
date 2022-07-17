@@ -17,6 +17,9 @@ I am a mobile application developer who is always learning new technologies and 
 <a href="https://play.google.com/store/apps/details?id=com.barryzea.appweather">
 <img src="https://github.com/hall9zeha/NimboWeather/blob/main/Resources/nimboWeather_icon_playStore.png" 
      width="80" hspace="10" vspace="10"></a>
+<a href="https://play.google.com/store/apps/details?id=com.barryzea.unsplashapp">
+<img src="https://github.com/hall9zeha/UnsplashAndWallhaven-Wallpapers/blob/main/Resources/wallpapers_icon.png" 
+     width="80" height="80" hspace="10" vspace="10"></a>
 <br/>
 <a href="https://play.google.com/store/apps/developer?id=Barry+Zea+H.">
     <img alt="Get it on Google Play"
@@ -36,6 +39,39 @@ I am a mobile application developer who is always learning new technologies and 
 </div>
 
 # Tech Stack
+<br />
+<div align="center">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/kotlin-icon.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/java.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/c-sharp.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/javascript.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/android-vertical.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+     
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/python.svg" align="left"
+     width="80" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/css-3.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/html-5.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+</div>
+
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" align="left"
+     width="50" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+</div>
 
 
 

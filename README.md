@@ -41,36 +41,41 @@ I am a mobile application developer who is always learning new technologies and 
 # Tech Stack
 <br />
 <div align="center">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/kotlin-icon.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-     
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/java.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+<a href="https://developer.android.com/kotlin" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/kotlin-icon.svg" 
+     height="40" margin="15px" ></a>
+<a href="https://docs.oracle.com/en/java/" margin="20">   
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/java.svg" 
+     height="40" margin="15px"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/c-sharp.svg" 
+    height="40" margin="15px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/javascript.svg"
+     height="40" margin="15px"></a>
+<a href="https://firebase.google.com" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" 
+     height="40" margin="15px"></a>
+ <br />
+ <br />
+ <a href="https://developer.android.com/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/android-vertical.svg" 
+    height="40" margin="15px"></a>
+<a href="https://www.python.org/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/python.svg" 
+     height="40" margin="15px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/css-3.svg" 
+     height="40" margin="15px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/html-5.svg" 
+     height="40" margin="15px"></a>
 
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/c-sharp.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/javascript.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-     
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/android-vertical.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-     
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/python.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/css-3.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/html-5.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
-
-
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" align="left"
-     width="30" hspace="10" vspace="10" style="border-radius: 10px 10px 10px 10px">
+<a href="https://dart.dev/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" 
+     height="40" margin="15px"></a>
+<br />
+<br />
 </div>
 
 

@@ -34,7 +34,7 @@ I am a mobile application developer who is always learning new technologies and 
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hall9zeha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hall9zeha&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

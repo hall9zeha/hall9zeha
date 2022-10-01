@@ -56,6 +56,12 @@ I am a mobile application developer who is always learning new technologies and 
 <a href="https://firebase.google.com" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" 
      height="40" margin="15px"></a>
+  <a href="https://git-scm.com/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/git-icon.svg" 
+     height="40" margin="15px"></a>
+    <a href="(https://www.mongodb.com/docs/" margin="20">
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/mongodb-icon.svg" 
+     height="40" margin="15px"></a>
  <br />
  <br />
  <a href="https://developer.android.com/" margin="20">
@@ -73,6 +79,10 @@ I am a mobile application developer who is always learning new technologies and 
 
 <a href="https://dart.dev/" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" 
+     height="40" margin="15px"></a>
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/linux-tux.svg" 
+     height="40" margin="15px"></a>
+<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/adobe-illustrator.svg" 
      height="40" margin="15px"></a>
 <br />
 <br />

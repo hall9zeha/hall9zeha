@@ -59,7 +59,7 @@ I am a mobile application developer who is always learning new technologies and 
   <a href="https://git-scm.com/" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/git-icon.svg" 
      height="40" margin="15px"></a>
-    <a href="(https://www.mongodb.com/docs/" margin="20">
+    <a href="https://www.mongodb.com/docs/" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/mongodb-icon.svg" 
      height="40" margin="15px"></a>
  <br />
@@ -80,8 +80,10 @@ I am a mobile application developer who is always learning new technologies and 
 <a href="https://dart.dev/" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" 
      height="40" margin="15px"></a>
+<a href="https://www.linuxfoundation.org/" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/linux-tux.svg" 
      height="40" margin="15px"></a>
+<a href="https://www.adobe.com/la/products/illustrator.html" margin="20">
 <img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/adobe-illustrator.svg" 
      height="40" margin="15px"></a>
 <br />

@@ -20,13 +20,15 @@ I am a mobile application developer who is always learning new technologies and 
 <a href="https://play.google.com/store/apps/details?id=com.barryzea.unsplashapp">
 <img src="https://github.com/hall9zeha/UnsplashAndWallhaven-Wallpapers/blob/main/Resources/wallpapers_icon.png" 
      width="80" height="80" hspace="10" vspace="10"></a>
+<img src= "https://github.com/hall9zeha/PomodoroApp/blob/main/InKotlin/app/src/debug/ic_launcher-playstore.png"
+     width="80" height="80" hspace="10" vspace="10"></a>
+  
 <br/>
-<a href="https://play.google.com/store/apps/developer?id=Barry+Zea+H.">
-    <img alt="Get it on Google Play"
+<a href="https://play.google.com/store/apps/dev?id=5950688758359102854">
+    <img alt="Get it on Develop Page"
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a> 
-
 
 ![Barry Zea's github stats](https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko)  
 <br />

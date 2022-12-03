@@ -7,6 +7,7 @@ I am a mobile application developer who is always learning new technologies and 
 <br />
   You can see my published applications.
 <br/>
+<p align="left"> <h2>My published Apps</h2><p/>
 <br/>
 <a href="https://play.google.com/store/apps/details?id=com.barryzea.wallhaven&hl=es&gl=US">
 <img src="https://github.com/hall9zeha/WallNice-Wallpapers/blob/main/Resources/wallnice_icon.png" 
@@ -20,9 +21,10 @@ I am a mobile application developer who is always learning new technologies and 
 <a href="https://play.google.com/store/apps/details?id=com.barryzea.unsplashapp">
 <img src="https://github.com/hall9zeha/UnsplashAndWallhaven-Wallpapers/blob/main/Resources/wallpapers_icon.png" 
      width="80" height="80" hspace="10" vspace="10"></a>
+<a href="https://play.google.com/store/apps/details?id=com.barryzeha.pomodoroapp">
 <img src= "https://github.com/hall9zeha/PomodoroApp/blob/main/InKotlin/app/src/debug/ic_launcher-playstore.png"
      width="80" height="80" hspace="10" vspace="10"></a>
-  
+     
 <br/>
 <a href="https://play.google.com/store/apps/dev?id=5950688758359102854">
     <img alt="Get it on Develop Page"
@@ -30,17 +32,29 @@ I am a mobile application developer who is always learning new technologies and 
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a> 
 
-![Barry Zea's github stats](https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko)  
-<br />
-![Barry Zea GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight)
 
 <br />
+
+<div align="left">
+
+# My Github Stats
+
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko" width="49.6%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight" width="49.6%">
+</p>
+
+</div>
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hall9zeha&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 </div>
 
-# Tech Stack
+# My Tech Stack
 <br />
 <div align="center">
 <a href="https://developer.android.com/kotlin" margin="20">

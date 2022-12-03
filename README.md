@@ -1,5 +1,7 @@
 # Barry Zea
- ```js script
+<div style="background-color: rgb(50, 50, 50);">
+
+```js script
  
   AboutMe {
     speciality:"Android developer",
@@ -14,6 +16,7 @@
     currentlyLearning:"Android compose jetpack"
   }
  ```
+</div>
 <div align="center">
 <h2> Hi, Welcome to my Github profile!</h2>
 <br />
@@ -58,8 +61,8 @@ I am a mobile application developer who is always learning new technologies and 
 
 
   <div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko" height="auto" width="49.6%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight" height="auto" width="49.6%">
     </div>
 
 

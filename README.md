@@ -37,12 +37,12 @@ I am a mobile application developer who is always learning new technologies and 
 
 <div align="left">
 
-# My Github Stats
+## My Github Stats
 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko" width="49.6%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight" width="49.6%">
+<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight">
 </p>
 
 </div>
@@ -54,7 +54,7 @@ I am a mobile application developer who is always learning new technologies and 
 
 </div>
 
-# My Tech Stack
+## My Tech Stack
 <br />
 <div align="center">
 <a href="https://developer.android.com/kotlin" margin="20">

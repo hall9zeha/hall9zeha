@@ -1,5 +1,19 @@
 # Barry Zea
-
+ ```js script
+ 
+  AboutMe {
+    speciality:"Android developer",
+    iWantToLearnMore:"Web development",
+    hobbies:[
+        "music",
+        "reading",
+        "sculpt",
+        "graphic design",
+        "electronic thinkering"
+        ],
+    currentlyLearning:"Android compose jetpack"
+  }
+ ```
 <div align="center">
 <h2> Hi, Welcome to my Github profile!</h2>
 <br />
@@ -7,6 +21,8 @@ I am a mobile application developer who is always learning new technologies and 
 <br />
   You can see my published applications.
 <br/>
+ 
+  
 <p align="left"> <h2>My published Apps</h2><p/>
 <br/>
 <a href="https://play.google.com/store/apps/details?id=com.barryzea.wallhaven&hl=es&gl=US">
@@ -40,13 +56,15 @@ I am a mobile application developer who is always learning new technologies and 
 ## My Github Stats
 
 
-<p>
+
+  <div style="display: flex; flex-direction: row;">
 <img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight">
-</p>
+    </div>
+
 
 </div>
-<div align="left">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hall9zeha&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>

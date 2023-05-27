@@ -62,7 +62,7 @@ I am a mobile application developer who is always learning new technologies and 
 
   <p>
 <img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko"  width="49.3%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight"  width="49.3%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight&hide=contribs&include_all_commits=true&count_private=true&show_icons=true"  width="49.3%">
     </p>
 
 

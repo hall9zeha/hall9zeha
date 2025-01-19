@@ -57,20 +57,17 @@ I am a mobile application developer who is always learning new technologies and 
 <div align="left">
 
 ## My Github Stats
-
-
-
   <p>
 <img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&show_icons=true&theme=merko"  width="49.3%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hall9zeha&theme=tokyonight&hide=contribs&include_all_commits=true&count_private=true&show_icons=true"  width="49.3%">
-    </p>
-
+<img src="https://streak-stats.demolab.com/?user=hall9zeha&theme=dark"  width="49.3%">
+ </p>
 
 </div>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hall9zeha&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
 
 </div>

@@ -76,49 +76,52 @@ I am a mobile application developer who is always learning new technologies and 
 <br />
 <div align="center">
 <a href="https://developer.android.com/kotlin" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/kotlin-icon.svg" 
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
      height="40" margin="15px" ></a>
 <a href="https://docs.oracle.com/en/java/" margin="20">   
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/java.svg" 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
      height="40" margin="15px"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/c-sharp.svg" 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" 
     height="40" margin="15px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/javascript.svg"
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
      height="40" margin="15px"></a>
 <a href="https://firebase.google.com" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/firebase.svg" 
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" 
      height="40" margin="15px"></a>
   <a href="https://git-scm.com/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/git-icon.svg" 
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
      height="40" margin="15px"></a>
     <a href="https://www.mongodb.com/docs/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/mongodb-icon.svg" 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
      height="40" margin="15px"></a>
  <br />
  <br />
  <a href="https://developer.android.com/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/android-vertical.svg" 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
     height="40" margin="15px"></a>
 <a href="https://www.python.org/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/python.svg" 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
      height="40" margin="15px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/css-3.svg" 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
      height="40" margin="15px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/html-5.svg" 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
+     height="40" margin="15px"></a>
+<a href="https://es.react.dev/" margin="20">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
      height="40" margin="15px"></a>
 
 <a href="https://dart.dev/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/dart.svg" 
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
      height="40" margin="15px"></a>
 <a href="https://www.linuxfoundation.org/" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/linux-tux.svg" 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
      height="40" margin="15px"></a>
 <a href="https://www.adobe.com/la/products/illustrator.html" margin="20">
-<img src="https://github.com/hall9zeha/hall9zeha/blob/main/svgs/adobe-illustrator.svg" 
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" 
      height="40" margin="15px"></a>
 <br />
 <br />

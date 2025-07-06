@@ -41,7 +41,7 @@ I am a mobile application developer who is always learning new technologies and 
 <img src="https://github.com/hall9zeha/UnsplashAndWallhaven-Wallpapers/blob/main/Resources/wallpapers_icon.png" 
      width="80" height="80" hspace="10" vspace="10"></a>
 <a href="https://play.google.com/store/apps/details?id=com.barryzeha.pomodoroapp">
-<img src= "https://github.com/hall9zeha/PomodoroApp/blob/main/InKotlin/app/src/debug/ic_launcher-playstore.png"
+<img src= "https://github.com/hall9zeha/PomodoroApp/blob/main/InKotlin/app/src/main/ic_launcher-playstore.png"
      width="80" height="80" hspace="10" vspace="10"></a>
      
 <br/>

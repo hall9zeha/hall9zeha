@@ -58,7 +58,7 @@ I am a mobile application developer who is always learning new technologies and 
 
 ## My Github Stats
   <p>
-<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&include_all_commits=true&show_icons=true&theme=merko&">
+<img src="https://github-readme-stats.vercel.app/api?username=hall9zeha&include_all_commits=true&show_icons=true&theme=merko&" width="49.3%">
 <img src="https://nirzak-streak-stats.vercel.app/?user=hall9zeha&theme=dark"  width="49.3%">
  </p>
 
